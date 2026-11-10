@@ -1,0 +1,6 @@
+{
+  "name": "SavyaNT Sales Order & Inventory Management",
+  "description": "Production-grade Python Flask + MySQL backend for Sales Order and Inventory Management System with role-based access, concurrency-safe inventory, and JWT authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

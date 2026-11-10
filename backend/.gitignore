@@ -1,0 +1,37 @@
+# Python byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables and secrets
+.env
+.env.local
+*.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.coverage.*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database dump files (temporary)
+*.sql.bak
+*.sqlite3
+*.db

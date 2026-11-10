@@ -1,0 +1,6 @@
+{
+  "name": "Sales Order & Inventory Management System",
+  "description": "Enterprise-grade Sales Order and Inventory Management System with role-based access, customer & product master data, order lifecycle with strict stock validations, movements audit trail, analytics reports, and CSV bulk import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
